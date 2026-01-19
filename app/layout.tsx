@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Pomodoro Timer",
+  title: "Zak's Work Timer",
   description: "A minimalist Pomodoro timer to help you focus",
 };
 
